@@ -8,7 +8,7 @@ I'm an ex-professional gamer in the [Overwatch League](https://overwatchleague.c
 
 #### :dizzy: Projects I've worked on:
 - [Yummy](https://github.com/Blue-Ocean-3-Bowser/libre) || Full Stack Application <br>
-*Full tiktok clone*
+*Social media app based off tiktok with seamless infinite video scroll and responsive ui*
 - [NearMe](https://github.com/ksf0/NearMe) || Full Stack Application <br>
 *Geolocation app allowing users to generate random restaurants near them according to their specifications*
 - [Product Microserver](https://github.com/Zombies-Hackreactor/Kyle-SDC) || Backend API <br>
