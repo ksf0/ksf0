@@ -1,10 +1,10 @@
-Hi there 👋 My name is Kyle. Thanks for stopping by!
+Hi there 👋
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ksf0)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kylefrandanisa/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kylejfrandanisa@gmail.com)
 
-I'm an ex-professional gamer in the [Overwatch League](https://overwatchleague.com/en-us/about). Throughout my time as a pro I played for the LA Valiant and most recently Houston Outlaws as [KSF](https://liquipedia.net/overwatch/KSF). I'm passionate about solving unique and challenging problems as well as creating rich user experiences.
+I'm an ex-professional gamer in the [Overwatch League](https://overwatchleague.com/en-us/about). Throughout my time as a pro I played for the LA Valiant and most recently Houston Outlaws as [KSF](https://liquipedia.net/overwatch/KSF). I'm passionate about building front end and back end applications as well as solving unique, challenging problems.
 
 #### :dizzy: Projects I've worked on:
 - [Yummy](https://github.com/Blue-Ocean-3-Bowser/libre) || Full Stack Application <br>
