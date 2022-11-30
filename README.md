@@ -17,7 +17,7 @@ I'm an ex-professional gamer in the [Overwatch League](https://overwatchleague.c
 *Related products and Outfit List for an ecommerce site*
 
 #### 🌱 Things I am currently working on: 
-- Polishing my NearMe app [NearMe](https://github.com/ksf0/NearMe)
+- Polishing my restaurant finder app [NearMe](https://github.com/ksf0/NearMe)
 - Studying different algorithms and system designs
 - Learning Python!
 
