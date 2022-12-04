@@ -4,7 +4,7 @@ Hi there 👋
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kylefrandanisa/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kylejfrandanisa@gmail.com)
 
-I'm an ex-professional gamer in the [Overwatch League](https://overwatchleague.com/en-us/about). Throughout my time as a pro I played for the LA Valiant and most recently Houston Outlaws as [KSF](https://liquipedia.net/overwatch/KSF). I'm passionate about building front end and back end applications as well as solving unique, challenging problems.
+I'm an ex-professional gamer in the [Overwatch League](https://overwatchleague.com/en-us/about). Throughout my time as a pro I played for the LA Valiant and most recently Houston Outlaws as [KSF](https://liquipedia.net/overwatch/KSF). I'm passionate about building full stack applications as well as solving unique, challenging problems.
 
 #### :dizzy: Projects I've worked on:
 - [Yummy](https://github.com/DBoceanZ/Yummy) || Full Stack Application <br>
