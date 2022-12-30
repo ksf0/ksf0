@@ -7,7 +7,7 @@ Hi there 👋
 I'm an ex-professional gamer in the [Overwatch League](https://overwatchleague.com/en-us/about). Throughout my time as a pro I played for the LA Valiant and most recently Houston Outlaws as [KSF](https://liquipedia.net/overwatch/KSF). I'm passionate about building full stack applications as well as solving unique, challenging problems.
 
 #### :dizzy: Projects I've worked on:
-- [Yummy](https://github.com/DBoceanZ/Yummy) || Full Stack Application <br>
+- [Yummy](https://github.com/DBoceanZ/Yummy/tree/home) || Full Stack Application <br>
 *Tiktok clone where users can create a profile and post videos that end up on the home page filtered by user interests*
 - [NearMe](https://github.com/ksf0/NearMe) || Full Stack Application <br>
 *Geolocation app allowing users to generate random restaurants near them according to their specifications*
